@@ -27,3 +27,34 @@ C:\Users\bcoover\Documents\Visual Studio 2012\Projects\NearbyNowWebFormsExample\
 C:\Users\bcoover\Documents\Visual Studio 2012\Projects\NearbyNowWebFormsExample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\bcoover\Documents\Visual Studio 2012\Projects\NearbyNowWebFormsExample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.dll
 C:\Users\bcoover\Documents\Visual Studio 2012\Projects\NearbyNowWebFormsExample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.pdb
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\NearbyNowWebFormsExample.dll.config
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\NearbyNowWebFormsExample.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\NearbyNowWebFormsExample.pdb
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\Antlr3.Runtime.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\AspNet.ScriptManager.jQuery.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.AspNet.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.Core.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OAuth.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OpenId.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\EntityFramework.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\System.Web.Optimization.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\System.Web.Providers.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\WebGrease.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\EntityFramework.xml
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.Core.xml
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OAuth.xml
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OpenId.xml
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenAuth.AspNet.xml
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.csproj.CoreCompileInputs.cache
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.dll
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.pdb

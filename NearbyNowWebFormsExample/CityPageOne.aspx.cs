@@ -12,14 +12,14 @@ namespace NearbyNowWebFormsExample
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            throw new NotImplementedException("You need to supply the city/state params below then remove this exception");
+            //throw new NotImplementedException("You need to supply the city/state params below then remove this exception");
 
             var wc = new WebClient();
             var html = wc.DownloadString(
                 String.Format(api,
                 HttpUtility.UrlEncode(StorefrontToken),
-                HttpUtility.UrlEncode("State"), // State, example: AZ
-                HttpUtility.UrlEncode("City"), // City, example: Phoenix
+                HttpUtility.UrlEncode("AZ"), // State, example: AZ
+                HttpUtility.UrlEncode("Mesa"), // City, example: Phoenix
                 "9",   //  zoomlevel
                 "yes",   //  showmap
                 "",   //  techemail

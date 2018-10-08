@@ -11,7 +11,7 @@
     <webopt:BundleReference runat="server" Path="~/Content/css" /> 
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <meta name="viewport" content="width=device-width" />
-    <link href="http://cdn.nearbynow.co/css/nnplugin.css" rel="stylesheet" type="text/css" />
+    <link href="https://d2gwjd5chbpgug.cloudfront.net/v4.2/css/nnplugin.min.css" rel="stylesheet" type="text/css" />
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
 </head>
 <body>
@@ -46,6 +46,7 @@
                     <ul id="menu">
                         <li><a runat="server" href="~/CityPageOne.aspx">City Page One</a></li>
                         <li><a runat="server" href="~/CityPageTwo.aspx">City Page Two</a></li>
+                        <li><a runat="server" href="~/Nationwide.aspx">Nationwide</a></li>
                     </ul>
                 </nav>
             </div>
@@ -66,8 +67,8 @@
     </form>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-    <script src="http://cdn.nearbynow.co/scripts/heatmap.js"></script>
-    <script src="http://cdn.nearbynow.co/scripts/heatmap-gmaps.js"></script>
+    <%--<script src="http://maps.google.com/maps/api/js"></script>--%>
+    <script src="https://d2gwjd5chbpgug.cloudfront.net/v3/scripts/heatmap.min.js"></script>
+    <%--<script src="http://cdn.nearbynow.co/scripts/heatmap-gmaps.js"></script>--%>
 </body>
 </html>
