@@ -47,6 +47,7 @@
                         <li><a runat="server" href="~/CityPageOne.aspx">City Page One</a></li>
                         <li><a runat="server" href="~/CityPageTwo.aspx">City Page Two</a></li>
                         <li><a runat="server" href="~/Nationwide.aspx">Nationwide</a></li>
+                        <li><a runat="server" href="~/Faq.aspx">Faq</a></li>
                     </ul>
                 </nav>
             </div>

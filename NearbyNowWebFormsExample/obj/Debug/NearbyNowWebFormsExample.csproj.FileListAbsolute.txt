@@ -58,3 +58,4 @@ C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\bin\DotNetOpenA
 C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.csproj.CoreCompileInputs.cache
 C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.dll
 C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.pdb
+C:\Repos\NearbyNow-aspnetwebformexample\NearbyNowWebFormsExample\obj\Debug\NearbyNowWebFormsExample.csprojResolveAssemblyReference.cache
