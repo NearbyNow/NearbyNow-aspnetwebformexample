@@ -37,7 +37,7 @@ namespace NearbyNowWebFormsExample
             var html = wc.DownloadString(
                 String.Format(api,
                 HttpUtility.UrlEncode(StorefrontToken),
-                "AZ,CA,NV",// HttpUtility.UrlEncode("State"), // State, example: AZ
+                "TX",// HttpUtility.UrlEncode("State"), // State, example: AZ
                 "", //HttpUtility.UrlEncode("City"), // City, example: Phoenix
                 "5",   //  zoomlevel
                 "yes",   //  showmap
